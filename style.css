@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(44, 44, 44);
+}
+
+.card{
+    color: rgb(212, 212, 212);
+    background-color: rgb(71, 71, 71);
+
+    width: 540px;
+    padding: 25px;
+    margin: auto;
+    border-radius: 20px;
+
+    box-shadow: 5px 5px 20px black;
+}
+
+a {
+    color: orange;
+
+    display: block;
+    margin-left: 25%;
+}
+
+#title{
+    
+    text-align: center;
+    margin-top: -10px;
+}
+
+#home{
+    margin-left: 2%;
+    margin-bottom: 10px;
+}
